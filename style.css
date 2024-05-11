@@ -259,9 +259,14 @@ img{
   color: #424242;
 }
 
+.footer-links h1{
+  color: #666;
+  font-size: 20px;
+}
+
 .footer-links a{
   text-decoration: none;
-  color: #424242;
+  color: #666;
 }
 
 .footer-links ul{
