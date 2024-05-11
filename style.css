@@ -171,13 +171,13 @@ img{
 
 .first-price{
   width: 50%;
-  border: 1px solid black;
+  border: 1px solid lightgray;
   height: 140px;
 }
 
 .second-price{
   width: 50%;
-  border: 1px solid black;
+  border: 1px solid lightgray;
   height: 140px;
 }
 
@@ -185,6 +185,7 @@ img{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border-radius: 5px;
 }
 
 .fourth-section a{
